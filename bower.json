@@ -1,0 +1,14 @@
+{
+  "name": "Ben WP",
+  "version": "0.0.0",
+  "description": "My personal boilerplate for wp theming",
+  "authors": [
+    "Ben"
+  ],
+  "private": true,
+  "dependencies": {
+    "jquery": "latest",
+    "bootstrap": "latest",
+    "html5-boilerplate": "latest"
+  }
+}
