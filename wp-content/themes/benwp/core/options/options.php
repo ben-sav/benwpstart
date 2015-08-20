@@ -25,7 +25,7 @@ class Options
     {
         add_menu_page(
             'Options du thème',             // titre pour le navigateur
-            'IF options',                   // nom du menu dans l'admin
+            'Options',                      // nom du menu dans l'admin
             'edit_theme_options',           // paramètre de capability nécessaire
             'options-custom',               // slug de la page
             array( $this, 'render' ),       // fonction qui va générer la page
